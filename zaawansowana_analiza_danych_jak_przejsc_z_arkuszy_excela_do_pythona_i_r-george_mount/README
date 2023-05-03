@@ -6,3 +6,22 @@ https://helion.pl/ksiazki/zaawansowana-analiza-danych-jak-przejsc-z-arkuszy-exce
 
 W tym repozytorium udostępniam rozwiązania omawianych zagadnień poruszanych w książce oraz moje rozwiązania zadań, które znajdują się końcu każdego rozdziału. 
 
+
+Rozdział 1
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dane wykorzystane w tym rozdziale znajdują się w pliku star.xlsx.
+Dane w tym zbiorze zostały zabrane w celu zbadania wpływu wielkości klasy na wyniki testów.
+
+W pliku zostało wykonane:
+•	Dodanie kolumny indeksu o nazwie id.
+•	Przekonwertowanie wynikowego zestawu danych na tabelę
+•	Nadanie tabeli nazwy star
+•	Stworzenie tabeli przestawnej z liczbą obserwacji dla każdego rodzaju klasy
+•	Wykonanie wykresu: Liczba uczniów w zależności od rodzaju klasy i dostępu do darmowego wyżywienia w szkole
+•	Obliczenie miar tendencji centralnej: średniej, mediany, dominanty
+•	Obliczenie wariancji i odchylenia standardowego dla przykładowych danych
+•	Obliczenie statystyk opisowych za pomocą Analysis ToolPak
+•	Rozkład wyników z testu czytania w postaci histogramu
+•	Rozkład wyników testu czytania w podziale na rodzaje klas
+•	Wykres pudełkowy
+•	Wykresy pudełkowe z podziałem na grupy
