@@ -34,32 +34,32 @@ Rozdział 2. Podstawy prawdopodobieństwa
 Dane wykorzystane w tym rozdziale znajdują się w pliku rozdzial2.xlsx.
 
 W pliku zostało wykonane:
-•	Wykres rozkładu prawdopodobieństwa rzutu sześciościenną kostką
-•	Obliczenie skumulowanego prawdopodobieństwa wyniku
-•	Wykres skumulowanego rozkładu prawdopodobieństwa rzutu sześciościenną kostką
-•	Symulacja wyników rzutów kostką za pomocą funkcji LOS.ZAKR()
-•	Porównanie teoretycznych i eksperymentalnych prawdopodobieństw rzutów
-•	Wizualizacja reguły trzech sigm 
-•	Dwa rozkłady normalne z różnymi średnimi i odchyleniami standardowymi
-•	Symulacja wyników gry w ruletkę za pomocą funkcji LOS.ZAKR()
-•	Rozkład wyników symulacji gry w ruletkę
-•	Rozkład średnich z prób symulacyjnych obrotów koła ruletki
-•	Wizualizacja prawa wielkich liczb
+- Wykres rozkładu prawdopodobieństwa rzutu sześciościenną kostką
+- Obliczenie skumulowanego prawdopodobieństwa wyniku
+- Wykres skumulowanego rozkładu prawdopodobieństwa rzutu sześciościenną kostką
+- Symulacja wyników rzutów kostką za pomocą funkcji LOS.ZAKR()
+- Porównanie teoretycznych i eksperymentalnych prawdopodobieństw rzutów
+- Wizualizacja reguły trzech sigm 
+- Dwa rozkłady normalne z różnymi średnimi i odchyleniami standardowymi
+- Symulacja wyników gry w ruletkę za pomocą funkcji LOS.ZAKR()
+- Rozkład wyników symulacji gry w ruletkę
+- Rozkład średnich z prób symulacyjnych obrotów koła ruletki
+- Wizualizacja prawa wielkich liczb
 
 Rozdział 3. Podstawy wnioskowania statystycznego
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dane wykorzystane w tym rozdziale znajdują się w pliku nieruchomosci.xlsx, który znajduje się w katalogu dane.
 
 W pliku zostało wykonane:
-•	Dodanie kolumny  z indeksami, oraz przekonwertowanie zbioru danych na tabelę o nazwie nieruchomości
-•	Analiza wpływu posiadania klimatyzacji na cenę sprzedaży domów
-o	Ustalenie hipotezy H0 – Brak różnicy w średniej cenie sprzedaży domów z klimatyzacją i bez niej. 
-   H1 – Istnieje różnica w średniej cenie sprzedaży domów z klimatyzacją i bez niej.
-o	Statystyki opisowe i wizualizacja rozkładu cen dla obu wartości zmiennej klimatyzacja
-o	Test t-Studenta. Test t: z dwiema próbkami zakładający nierówne wariacje
-o	Obliczenie przedziału ufności
-•	Analiza wpływu posiadania w pełni wykończonej piwnicy na wielkość działki- tak jak w poprzednim punkcie
-•	Analiza wpływu obecności instalacji gazowej na ceny domów- tak jak w poprzednim punkcie
+- Dodanie kolumny  z indeksami, oraz przekonwertowanie zbioru danych na tabelę o nazwie nieruchomości
+- Analiza wpływu posiadania klimatyzacji na cenę sprzedaży domów
+     * Ustalenie hipotezy H0 – Brak różnicy w średniej cenie sprzedaży domów z klimatyzacją i bez niej. 
+     * H1 – Istnieje różnica w średniej cenie sprzedaży domów z klimatyzacją i bez niej.
+     * Statystyki opisowe i wizualizacja rozkładu cen dla obu wartości zmiennej klimatyzacja
+     * Test t-Studenta. Test t: z dwiema próbkami zakładający nierówne wariacje
+     * Obliczenie przedziału ufności
+- Analiza wpływu posiadania w pełni wykończonej piwnicy na wielkość działki- tak jak w poprzednim punkcie
+- Analiza wpływu obecności instalacji gazowej na ceny domów- tak jak w poprzednim punkcie
 
 
 Rozdział 4. Korelacja i regresja
