@@ -54,7 +54,7 @@ W pliku zostało wykonane:
 •	Dodanie kolumny  z indeksami, oraz przekonwertowanie zbioru danych na tabelę o nazwie nieruchomości
 •	Analiza wpływu posiadania klimatyzacji na cenę sprzedaży domów
 o	Ustalenie hipotezy H0 – Brak różnicy w średniej cenie sprzedaży domów z klimatyzacją i bez niej. 
-  H1 – Istnieje różnica w średniej cenie sprzedaży domów z klimatyzacją i bez niej.
+   H1 – Istnieje różnica w średniej cenie sprzedaży domów z klimatyzacją i bez niej.
 o	Statystyki opisowe i wizualizacja rozkładu cen dla obu wartości zmiennej klimatyzacja
 o	Test t-Studenta. Test t: z dwiema próbkami zakładający nierówne wariacje
 o	Obliczenie przedziału ufności
