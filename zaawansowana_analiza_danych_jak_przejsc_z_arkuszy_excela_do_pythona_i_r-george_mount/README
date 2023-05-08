@@ -6,8 +6,11 @@ https://helion.pl/ksiazki/zaawansowana-analiza-danych-jak-przejsc-z-arkuszy-exce
 
 W tym repozytorium udostępniam rozwiązania omawianych zagadnień poruszanych w książce oraz moje rozwiązania zadań, które znajdują się końcu każdego rozdziału. 
 
+**************************************************************************************************************************************************************
+                                                    Część I. Podstawy analizy danych w Excelu
+**************************************************************************************************************************************************************
 
-Rozdział 1
+Rozdział 1. Podstawy eksploracyjnej analizy danych
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dane wykorzystane w tym rozdziale znajdują się w pliku star.xlsx.
 Dane w tym zbiorze zostały zabrane w celu zbadania wpływu wielkości klasy na wyniki testów.
@@ -25,3 +28,20 @@ W pliku zostało wykonane:
 •	Rozkład wyników testu czytania w podziale na rodzaje klas
 •	Wykres pudełkowy
 •	Wykresy pudełkowe z podziałem na grupy
+
+Rozdział 2. Podstawy prawdopodobieństwa
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dane wykorzystane w tym rozdziale znajdują się w pliku rozdzial2.xlsx.
+
+W pliku zostało wykonane:
+•	Wykres rozkładu prawdopodobieństwa rzutu sześciościenną kostką
+•	Obliczenie skumulowanego prawdopodobieństwa wyniku
+•	Wykres skumulowanego rozkładu prawdopodobieństwa rzutu sześciościenną kostką
+•	Symulacja wyników rzutów kostką za pomocą funkcji LOS.ZAKR()
+•	Porównanie teoretycznych i eksperymentalnych prawdopodobieństw rzutów
+•	Wizualizacja reguły trzech sigm 
+•	Dwa rozkłady normalne z różnymi średnimi i odchyleniami standardowymi
+•	Symulacja wyników gry w ruletkę za pomocą funkcji LOS.ZAKR()
+•	Rozkład wyników symulacji gry w ruletkę
+•	Rozkład średnich z prób symulacyjnych obrotów koła ruletki
+•	Wizualizacja prawa wielkich liczb
