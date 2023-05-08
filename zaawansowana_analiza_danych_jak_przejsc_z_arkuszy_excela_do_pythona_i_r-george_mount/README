@@ -45,3 +45,77 @@ W pliku zostało wykonane:
 •	Rozkład wyników symulacji gry w ruletkę
 •	Rozkład średnich z prób symulacyjnych obrotów koła ruletki
 •	Wizualizacja prawa wielkich liczb
+
+Rozdział 3. Podstawy wnioskowania statystycznego
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dane wykorzystane w tym rozdziale znajdują się w pliku nieruchomosci.xlsx, który znajduje się w katalogu dane.
+
+W pliku zostało wykonane:
+•	Dodanie kolumny  z indeksami, oraz przekonwertowanie zbioru danych na tabelę o nazwie nieruchomości
+•	Analiza wpływu posiadania klimatyzacji na cenę sprzedaży domów
+o	Ustalenie hipotezy H0 – Brak różnicy w średniej cenie sprzedaży domów z klimatyzacją i bez niej. 
+  H1 – Istnieje różnica w średniej cenie sprzedaży domów z klimatyzacją i bez niej.
+o	Statystyki opisowe i wizualizacja rozkładu cen dla obu wartości zmiennej klimatyzacja
+o	Test t-Studenta. Test t: z dwiema próbkami zakładający nierówne wariacje
+o	Obliczenie przedziału ufności
+•	Analiza wpływu posiadania w pełni wykończonej piwnicy na wielkość działki- tak jak w poprzednim punkcie
+•	Analiza wpływu obecności instalacji gazowej na ceny domów- tak jak w poprzednim punkcie
+
+
+Rozdział 4. Korelacja i regresja
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Rozdział 5. Stos analizy danych
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+**************************************************************************************************************************************************************
+                                                    Część II. Z Excela do R
+**************************************************************************************************************************************************************
+
+Rozdział 6. Pierwsze kroki w R dla użytkowników Excela
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Rozdział 7. Struktury danych w R
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Rozdział 8. Przetwarzanie i wizualizacja danych w R
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Rozdział 9. R w analizie danych
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**************************************************************************************************************************************************************
+                                                    Część III. Z Excela do Pythona
+**************************************************************************************************************************************************************
+
+Rozdział 10. Pierwsze kroki w Pythonie dla użytkowników Excela
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Rozdział 11. Struktury danych w Pythonie
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Rozdział 12. Przetwarzanie i wizualizacja danych w Pythonie
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Rozdział 13. Python w analizie danych
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Rozdział 14. Wnioski i kolejne kroki
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
