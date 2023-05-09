@@ -1,5 +1,6 @@
 Zadania
 
+Excel
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Rozdział 1
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,3 +40,14 @@ Zadanie 3. Która ze zmiennych wzrost czy waga jest Twoim zdaniem zmienną nieza
            * Jakie jest nachylenie prostej regresji?
            * Jaki procent wariancji zmiennej zależnej wyjaśnia zmienna niezależna?
 Zadanie 4. Ten zbiór danych zawiera wartości wskaźnika masy ciała (BMI). Przeanalizuj związek między wzrostem a BMI.
+
+R
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rozdział 6
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Zadanie 1. W menu wybierz Tools/Global Options/Appearance i dostosuj czcionkę i motyw edytora.
+Zadanie 2. W RStudio utwórz skrypt, który wykona następujące czynności:
+           * Przypisze sumę 1 i 4 do obiektu a
+           * Przypisze pierwiastek kwadratowy z a bo b
+           * Przypisze b minus 1 do obiektu d. Jakiego typu dane są przechowywane w d? Czy d jest większe niż 2?
+Zadanie 3. Zainstaluj pakiet psych z repozytorium CRAN i załaduj go do swojej sesji. W komentarzach wyjaśnij różnicę między instalacją a wczytaniem pakietu.
