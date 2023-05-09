@@ -86,8 +86,14 @@ Rozdział ma charakter teoretyczny.
 
 Rozdział 6. Pierwsze kroki w R dla użytkowników Excela
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+W pliku zostały wykorzystane:
+- Proste operatory i funkcje
+- Operator ? – wyświetlenie informacji o funkcji
+- Komentarze
+- Przypisywanie wartości do obiektu i jego wyświetlanie 
+- Różne typy danych
+- Funkcja str() sprawdzenie struktury obiektu
+- Instalacja pakietu w konsoli: install.packages('tidyverse') oraz  dołączenie tidyverse do bieżącej sesji w RStudio
 
 Rozdział 7. Struktury danych w R
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
