@@ -60,14 +60,24 @@ W pliku zostało wykonane:
 - Analiza wpływu posiadania w pełni wykończonej piwnicy na wielkość działki- tak jak w poprzednim punkcie
 - Analiza wpływu obecności instalacji gazowej na ceny domów- tak jak w poprzednim punkcie
 
-
 Rozdział 4. Korelacja i regresja
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Dane wykorzystane w tym rozdziale znajdują się w pliku samochody.xlsx, który znajduje się w katalogu dane.
+W pliku zostało wykonane:
+- Przekonwertowanie danych na tabelę
+- Wyznaczenie korelacji między masą pojazdu a spalaniem WSP.KORELACJI(samochody3[masa];samochody3[spalanie])
+- Macierz korelacji
+- Wykres rozrzutu spalania i masy
+- Hipotezy
+    * H0: brak liniowego wpływu na masę
+    * H1: istnieje wpływ masy na spalanie
+- Wykres rozrzutu z linią trendu i równaniem regresji dla wpływu masy na spalanie
+- Regresja liniowa
+- Wykres w postaci różnic między wartościami rzeczywistymi i przewidywanymi
 
 Rozdział 5. Stos analizy danych
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Rozdział ma charakter teoretyczny.
 
 
 **************************************************************************************************************************************************************
