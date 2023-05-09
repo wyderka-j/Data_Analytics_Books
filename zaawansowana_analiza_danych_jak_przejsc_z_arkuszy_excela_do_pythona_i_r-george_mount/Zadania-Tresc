@@ -27,3 +27,15 @@ Zadanie 1.  Zbadaj zależność między porą dnia (obiad lub kolacja) a kwotą 
            • Czy otrzymane wyniki są istotne statystycznie? Jakich dowodów na temat Twoich hipotez dostarczają?
            • Jaka jest szacowana wielkość efektu?
 Zadanie 2. Tym razem zbadaj związek między porą dnia a napiwkiem. Odpowiedz na te same pytania co powyżej.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rozdział 4
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ćwiczenia wykonano na zestawie danych z pliku ais.xlsx, który dany jest w katalogu dane.
+Zadanie 1.  Utwórz macierz korelacji zmiennych w zbiorze.
+Zadanie 2. Zwizualizuj związek wzrostu i wagi. Czy jest to zależność liniowa? Jeśli tak, to czy zależność dodatnia, czy ujemna?
+Zadanie 3. Która ze zmiennych wzrost czy waga jest Twoim zdaniem zmienną niezależną, a która zależną?
+           * Czy istnieje znaczący wpływ zmiennej niezależnej na zależną?
+           * Jakie jest nachylenie prostej regresji?
+           * Jaki procent wariancji zmiennej zależnej wyjaśnia zmienna niezależna?
+Zadanie 4. Ten zbiór danych zawiera wartości wskaźnika masy ciała (BMI). Przeanalizuj związek między wzrostem a BMI.
