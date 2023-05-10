@@ -97,7 +97,7 @@ W pliku zostały wykorzystane:
 
 Rozdział 7. Struktury danych w R
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-W pliku zostało  wykonane:
+W pliku zostało wykonane:
 - załadowanie pakietów: Wczytywanie i eksploracja danych- tidyverse, Wczytywanie danych z plików Excela- readxl, Obliczanie statystyk podsumowujących- psych, 
   Zapis danych w formacie Excela- writexl
 - Funkcje z danymi i przypisywanie danych do obiektów
@@ -121,8 +121,21 @@ W pliku zostało  wykonane:
 
 Rozdział 8. Przetwarzanie i wizualizacja danych w R
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+W pliku zostało wykonane:
+- Wczytanie bibliotek: library(tidyverse), library(readxl)
+- Wczytanie danych z pliku star za pomocą funkcji select()
+- Wybór kolumn ze zbioru star, pominięcie kolumn za pomocą operatora -, skrócenie wywołania select() za pomocą operatora :
+- Kolumny obliczeniowe za pomocą funkcji mutate()
+- Zmiana nazwy kolumny za pomocą funkcji rename()
+- Sortowanie ramki danych za pomocą funkcji arrange()
+- Filtrowanie danych za pomocą funkcji filter()
+- Filtrowanie danych według wielu kryteriów przy użyciu operatorów & i |
+- Pogrupowanie danych za pomocą funkcji group_by() i ich podsumowania za pomocą funkcji summarize()
+- Złączenie lewostronne zewnętrzne tabel star i districts left_join()
+- Użycie operatora potoku %>% do przekazania danych wyjściowych z jednej funkcji bezpośrednio do drugiej
+- Przekształcanie danych za pomocą funkcji z pakietu tidyr: pivot_longer(), pivot_wider()
+- Wizualizacja danych w ggplot2: Wykres liczności, Histogram, Wykres pudełkowy, Obrócony wykres pudełkowy, Zgrupowany wykres pudełkowy, Wykres punktowy, 
+  Wykres punktowy z wlasnymi nazwami osi i tytułem
 
 Rozdział 9. R w analizie danych
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
