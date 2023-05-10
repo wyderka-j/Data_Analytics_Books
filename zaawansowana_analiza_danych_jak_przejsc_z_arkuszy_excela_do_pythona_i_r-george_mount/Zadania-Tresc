@@ -51,3 +51,13 @@ Zadanie 2. W RStudio utwórz skrypt, który wykona następujące czynności:
            * Przypisze pierwiastek kwadratowy z a bo b
            * Przypisze b minus 1 do obiektu d. Jakiego typu dane są przechowywane w d? Czy d jest większe niż 2?
 Zadanie 3. Zainstaluj pakiet psych z repozytorium CRAN i załaduj go do swojej sesji. W komentarzach wyjaśnij różnicę między instalacją a wczytaniem pakietu.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rozdział 7
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Zadanie 1. Utwórz wektor znaków składający się z pięciu elementów, a następnie uzyskaj dostęp do pierwszego i czwartego elementu tego wektora.
+Zadanie 2. Utwórz dwa wektory, x i y, o długości 4. Pierwszy ma zawierać wartości liczbowe, a drugi logiczne. Pomnóż je i zapisz rezultat w obiekcie z. 
+           Jaki wynik otzrymałeś?
+Zadanie 3. Z repozytorium CRAN pobierz pakiet nycflights13. Ile zbiorów danych znajduje się w tym pakiecie?
+           a) Jeden ze zbiorów nazywa się airports. Wyświetl kilka pierwszych wierszy z jego ramki danych oraz oblicz statystyki opisowe.
+           b) W pakiecie znajdziesz też zbiór weather. Wybierz z ramki danych wiersze od 10 do 12 i kolumny od 4 do 7. Zapisz wyniki w pliku .csv i arkuszu Excela.
