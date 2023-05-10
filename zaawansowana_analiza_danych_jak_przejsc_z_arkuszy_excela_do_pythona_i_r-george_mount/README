@@ -97,8 +97,27 @@ W pliku zostały wykorzystane:
 
 Rozdział 7. Struktury danych w R
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+W pliku zostało  wykonane:
+- załadowanie pakietów: Wczytywanie i eksploracja danych- tidyverse, Wczytywanie danych z plików Excela- readxl, Obliczanie statystyk podsumowujących- psych, 
+  Zapis danych w formacie Excela- writexl
+- Funkcje z danymi i przypisywanie danych do obiektów
+- Sprawdzenie czy obiekt jest wektorem za pomocą funkcji is.vector() i jego długości length()
+- Tworzenie wektora z wielu elementów za pomocą funkcji c()
+- Indeksowanie i wybór elementów z wektorów
+- Utworzenie ramki danych za pomocą funkcji data.frame()
+- Wyświetlenie listy zestawów danych instalowanych wraz z językiem R za pomocą funkcji data()
+- Wyświetlenie tylko kilku pierwszych wierszy ze zbioru iris za pomocą funkcji head(iris)
+- Wyświetlenie ścieżki do katalogu roboczego za pomocą getwd()
+- Ustawienie ścieżki do katalogu roboczego za pomocą setwd()
+- Sprawdzenie czy uda się zlokalizować plik w folderze za pomocą funkcji file.exists()
+- Wczytanie zawartości pliku .csv za pomocą read_csv('Dane/okręgi.csv')
+- Importowanie danych .xlsx, .xls, .xlsm za pomocą funkcji read_xlsx()
+- Wyświetlenie danych w przeglądarce przypominającej arkusz kalkulacyjny w nowej karcie edytora skryptów za pomocą funkcji View()
+- Wyświetlenie kilku rekordów z ramki danych wraz z nazwami i typami kolumn za pomocą funkcji glimpse(star)
+- Podstawowe statystyki opisowe za pomocą funkcji summary() i describe()
+- Indeksowanie i wybór elementów z ramek danych
+- Zapis ramki danych w pliku .csv write_csv()
+- Zapis ramki danych w arkuszu Excela write_xlsx()
 
 Rozdział 8. Przetwarzanie i wizualizacja danych w R
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
