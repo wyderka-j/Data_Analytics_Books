@@ -139,7 +139,29 @@ W pliku zostało wykonane:
 
 Rozdział 9. R w analizie danych
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+W pliku zostało wykonane:
+- Wczytanie bibliotek: library(tidyverse), library(psych), library(tidymodels)
+- Wczytanie danych z pliku samochody.csv i wybór interesujących nas kolumn
+- Statystyki opisowe describe()
+- Jednokierunkowa tabela częstości zmiennej pochodzenie wygenerowana za pomocą funkcji count()
+- Dwukierunkowa tabela częstości poprzez wywołanie funkcji count() z pivot_wider()
+- Statystyki opisowe w grupach 
+- Wizualizacja rozkładu spalania za pomocą histogramu
+- Wizualizacja spalania w zależności od pochodzenia przy użyciu wykresu pudełkowego
+- Histogram spalania w podziale na pochodzenie
+- Hipoteza: Czy istniej znaczna różnica w spalaniu między samochodami amerykańskimi i europejskimi
+- Test t-Studenta
+- Macierz korelacji przy użyciu funkcji cor()
+- Wykres związku pomiędzy masą a spalaniem
+- Wykres typu pairplot wszystkich kombinacji zmiennych
+- Dopasowanie linii regresji i wyświetlenie podsumowania
+- Wykres punktowy z linią regresji
+- Podział na zbiór uczący i testowy za pomocą funkcji initial_split()
+- Sprawdzenie liczby wierszy i kolumn zbiorów uczącego i testującego za pomocą funkcji dim()
+- Określenie rodzaju modelu treningowego za pomocą funkcji linear_reg() i dopasowanie modelu do danych fit()
+- Wyznaczenie współczynników i wartości modelu za pomocą funkcji tidy() oraz wskaźników wydajności za pomocą glance()
+- Przewidywanie wartości w zbiorze testowym predict()
+- Wyznaczenie współczynnika R-kwadrat za pomocą rsq() oraz pierwiastka z błędu średniokwadratowego za pomocą rmse()
 
 **************************************************************************************************************************************************************
                                                     Część III. Z Excela do Pythona
