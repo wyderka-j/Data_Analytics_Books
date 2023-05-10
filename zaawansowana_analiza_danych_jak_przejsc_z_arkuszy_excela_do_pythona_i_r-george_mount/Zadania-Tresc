@@ -61,3 +61,15 @@ Zadanie 2. Utwórz dwa wektory, x i y, o długości 4. Pierwszy ma zawierać war
 Zadanie 3. Z repozytorium CRAN pobierz pakiet nycflights13. Ile zbiorów danych znajduje się w tym pakiecie?
            a) Jeden ze zbiorów nazywa się airports. Wyświetl kilka pierwszych wierszy z jego ramki danych oraz oblicz statystyki opisowe.
            b) W pakiecie znajdziesz też zbiór weather. Wybierz z ramki danych wiersze od 10 do 12 i kolumny od 4 do 7. Zapisz wyniki w pliku .csv i arkuszu Excela.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rozdział 8
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pliki użyte w tych zadaniach to cenzus.csv i cenzus-oddzialy.csv
+Zadanie 1. Posortuj dane rosnąco według regionu i oddziału oraz malejąco według liczby ludności. (Aby to zrobić, musisz połączyć ze sobą zbiory danych). 
+           Wyniki zapisz w arkuszu Excela.        
+Zadanie 2. Usuń pole kod.pocztowy z połączonego zbioru danych.
+Zadanie 3. Utwórz nową kolumnę gęstość.zaludnienia, która będzie równa liczbie ludności podzielonej przez powierzchnię.
+Zadanie 4. Zwizualizuj relację między powierzchnią a populacją dla wszystkich obserwacji z 2015 roku.
+Zadanie 5. Znajdź całkowitą liczbę ludności w każdym regionie w 2015 roku.
+Zadanie 6. Utwórz tabelę zawierającą nazwy stanów i liczbę ludności, w której liczba ludności z każdego roku od 2010 do 2015 przechowywana jest w osobnej kolumnie.
