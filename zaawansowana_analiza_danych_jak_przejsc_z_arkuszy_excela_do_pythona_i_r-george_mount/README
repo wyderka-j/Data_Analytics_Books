@@ -179,8 +179,18 @@ W pliku zostało wykonane:
 
 Rozdział 11. Struktury danych w Pythonie
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+W pliku zostały wykonane:
+Utworzenie list
+Utworzenie tablic
+Indeksowanie i wybieranie elementów z tablic
+Import biblioteki pandas
+Utworzenie ramki danych
+Importowanie modułu os do pracy ze ścieżkami do plików 
+Importowanie danych
+Otrzymanie informacji o danych za pomocą metody info()
+Obliczenie statystyk opisowych za pomocą describe()
+Indeksowanie i wybieranie elementów z ramek danych
+Zapis ramek danych 
 
 Rozdział 12. Przetwarzanie i wizualizacja danych w Pythonie
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
