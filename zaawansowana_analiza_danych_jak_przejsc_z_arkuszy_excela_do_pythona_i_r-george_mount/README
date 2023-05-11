@@ -180,22 +180,34 @@ W pliku zostało wykonane:
 Rozdział 11. Struktury danych w Pythonie
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 W pliku zostały wykonane:
-Utworzenie list
-Utworzenie tablic
-Indeksowanie i wybieranie elementów z tablic
-Import biblioteki pandas
-Utworzenie ramki danych
-Importowanie modułu os do pracy ze ścieżkami do plików 
-Importowanie danych
-Otrzymanie informacji o danych za pomocą metody info()
-Obliczenie statystyk opisowych za pomocą describe()
-Indeksowanie i wybieranie elementów z ramek danych
-Zapis ramek danych 
+- Utworzenie list i tablic
+- Indeksowanie i wybieranie elementów z tablic
+- Import biblioteki pandas
+- Utworzenie ramki danych
+- Importowanie modułu os do pracy ze ścieżkami do plików 
+- Importowanie danych
+- Otrzymanie informacji o danych za pomocą metody info()
+- Obliczenie statystyk opisowych za pomocą describe()
+- Indeksowanie i wybieranie elementów z ramek danych
+- Zapis ramek danych 
 
 Rozdział 12. Przetwarzanie i wizualizacja danych w Pythonie
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+W pliku zostały wykonane:
+- Import bibliotek pandas, seaborn i pliku star.xlsx oraz okręgi.csv
+- Usunięcie określonych kolumn za pomocą metody drop()
+- Dodawanie nowych kolumn
+- Zmiana nazw za pomocą metody rename()
+- Sortowanie danych za pomocą metody sort_values()
+- Filtrowanie danych 
+- Grupowanie danych metodą groupby()
+- Funkcje agregacyjne: średnia, maksimum
+- Lewostronne złączenie zewnętrzne danych z plików star i okręgi
+- Rozszerzanie i wydłużanie zbioru danych 
+- Wykres liczby wystąpień poszczególnych wartości
+- Histogram zmiennej wynik.czytanie
+- Wykres pudełkowy i wykres pudełkowy z podziałem na grupy
+- Wykres zależności pomiędzy wynikiem testu z matematyki i czytania
 
 Rozdział 13. Python w analizie danych
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
