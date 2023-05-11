@@ -99,3 +99,14 @@ Zadanie 2. Biblioteka standardowa Pythona zawiera moduł random, który posiada 
 Zadanie 3. Biblioteka standardowa Pythona zawiera również moduł o nazwie this. Co się stanie gdy go zaimportujesz?
 Zadanie 4. Pobierz pakiet xlutis z repozytorium Anacondy, a następnie wykorzystaj operator ?, aby przejrzeć jego dokumentację.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rozdział 11
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Zadanie 1. Przekształć poniższą tabelę, tak aby pozostały w niej elementy od trzeciego do piątego:
+           practice_array = ['Świetnie', 'się', 'bawię', 'z', 'językiem', 'Python']
+Zadanie 2. Załaduj ramkę danych tips z biblioteki seaborn:
+           * Wyświetl informacje o tej ramce, takie jak liczba obserwacji i typ każdej kolumny
+           * Wyświetl statystyki opisowe ramki danych
+Zadanie 3.  Wczytaj zawartość pliku ais.xlsx do ramki danych pandas i:
+           * Wyświetl kilka pierwszych wierszy otrzymanej ramki danych
+           * Zapisz zawartość kolumny sport tej ramki danych do arkusza Excela o nazwie sport.xlsx
