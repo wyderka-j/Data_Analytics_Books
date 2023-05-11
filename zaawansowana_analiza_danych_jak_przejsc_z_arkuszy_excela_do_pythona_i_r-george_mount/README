@@ -211,8 +211,18 @@ W pliku zostały wykonane:
 
 Rozdział 13. Python w analizie danych
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-Rozdział 14. Wnioski i kolejne kroki
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+W pliku zostały wykonane:
+- Zaimportowanie modułów i danych z pliku samochody.csv
+- Statystyki opisowe
+- Wygenerowanie tabeli częstości za pomocą funkcji crosstab()
+- Wygenerowanie dwukierunkowej tabeli częstości
+- Statystyki opisowe w grupach
+- Histogram spalania
+- Wykres pudełkowy spalania w zależności od pochodzenia
+- Podział obserwacji z różnym pochodzeniem na osobne ramki danych
+- Test t-Studenta
+- Macierz korelacji
+- Wykres punktowy spalania w zależności od masy
+- Regresja liniowa — spalanie w funkcji masy
+- Podział zbioru na zbiór treningowy i testowy
+- Wyznaczenie wartości R-kwadrat i pierwiastka z błędu średniokwadratowego
