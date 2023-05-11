@@ -85,3 +85,17 @@ Zadanie 4. Zwizualizuj związek wzrostu (wzrost) z wagą (waga).
 Zadanie 5. Za pomocą regresji liniowej znajdź zależność wzrostu od wagi. Znajdź równanie prostej regresji. Czy istnieje znaczący związek między parametrami?
            Jaki procent zmienności wzrstu wyaźnia waga?
 Zadanie 6. Podziel dane na zbiór treningowy i testowy. Jaka jest wartość R-kwadrat i RMSE modelu przetestowanego na zbiorze testowym?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rozdział 10
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Zadanie 1. W nowym notatniku wykonaj następujące czynności:
+           * Przypisz sumę 1 i -4 do obiektu a
+           * Przypisz wartość bezwzględną a do b
+           * Przypisz b minus 1 do d
+           * Czy d jest większe od 2?
+Zadanie 2. Biblioteka standardowa Pythona zawiera moduł random, który posiada funcję randint(). Funkcja ta jest odpowiednikiem LOS.ZAKR z Excela. 
+           Na przykład wywołanie randint(1, 6) zwróci liczbę całkowitą z zakresu od 1 do 6. Użyj tej funkcji, aby znaleźć liczbę losową z zakresu od 0 do 36.
+Zadanie 3. Biblioteka standardowa Pythona zawiera również moduł o nazwie this. Co się stanie gdy go zaimportujesz?
+Zadanie 4. Pobierz pakiet xlutis z repozytorium Anacondy, a następnie wykorzystaj operator ?, aby przejrzeć jego dokumentację.
+
