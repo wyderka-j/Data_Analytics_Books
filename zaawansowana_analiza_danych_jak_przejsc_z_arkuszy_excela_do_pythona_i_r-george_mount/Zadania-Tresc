@@ -122,3 +122,14 @@ Zadanie 3. Utwórz nową kolumnę gęstość.zaludnienia, która będzie równa 
 Zadanie 4. Zwizualizuj relację między powierzchnią a populacją dla wszystkich obserwacji z 2015 roku.
 Zadanie 5. Znajdź całkowitą liczbę ludności w każdym regionie w 2015 roku.
 Zadanie 6. Utwórz tabelę zawierającą nazwy stanów i liczbę ludności, w której liczba ludności z każdego roku od 2010 do 2015 przechowywana jest w osobnej kolumnie.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rozdział 13
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Plik użyty w tych zadaniach to ais.xlsx
+Zadanie 1. Zwizualizuj rozkład liczby czerwonych krwinek (rcc) według płci (płeć).
+Zadanie 2. Czy istnieje znacząca różnica w liczbie czerwonych krwinek między tymi grupami?
+Zadanie 3. Utwórz macierz korelacji odpowiednich zmiennych.
+Zadanie 4. Zwizualizuj związek wzrostu (wzrost) z wagą (waga).
+Zadanie 5. Za pomocą regresji liniowej znajdź zależność wzrostu od wagi. Znajdź równanie prostej regresji. Czy istnieje znaczący związek między parametrami?
+Zadanie 6. Podziel dane na zbiór treningowy i testowy. Jaka jest wartość R-kwadrat i RMSE modelu przetestowanego na zbiorze testowym?
