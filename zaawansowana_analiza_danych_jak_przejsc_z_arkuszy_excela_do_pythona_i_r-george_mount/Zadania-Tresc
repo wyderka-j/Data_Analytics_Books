@@ -110,3 +110,16 @@ Zadanie 2. Załaduj ramkę danych tips z biblioteki seaborn:
 Zadanie 3.  Wczytaj zawartość pliku ais.xlsx do ramki danych pandas i:
            * Wyświetl kilka pierwszych wierszy otrzymanej ramki danych
            * Zapisz zawartość kolumny sport tej ramki danych do arkusza Excela o nazwie sport.xlsx
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rozdział 12
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pliki wykorzystane w tych zadaniach: cenzus.csv i cenzus-oddziały.csv
+Zadanie 1. Posortuj dane rosnąco według regionu i oddziału oraz malejąco wedlug liczby ludności. (Aby to zrobić, musisz połączyć ze sobą zbiory danych). 
+           Wynik zapisz w arkuszu Excel.
+Zadanie 2. Usuń pole kod.pocztowy z połączonego zbioru danych.
+Zadanie 3. Utwórz nową kolumnę gęstość.zaludnienia, która będzie równa liczbie ludności podzielonej przez powierzchnię.
+Zadanie 4. Zwizualizuj relację między powierzchnią a populacją dla wszystkich obserwacji z 2015 roku.
+Zadanie 5. Znajdź całkowitą liczbę ludności w każdym regionie w 2015 roku.
+Zadanie 6. Utwórz tabelę zawierającą nazwy stanów i liczbę ludności, w której liczba ludności z każdego roku od 2010 do 2015 przechowywana jest w osobnej kolumnie.
