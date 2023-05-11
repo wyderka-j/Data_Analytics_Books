@@ -111,7 +111,6 @@ Zadanie 3.  Wczytaj zawartość pliku ais.xlsx do ramki danych pandas i:
            * Wyświetl kilka pierwszych wierszy otrzymanej ramki danych
            * Zapisz zawartość kolumny sport tej ramki danych do arkusza Excela o nazwie sport.xlsx
 
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Rozdział 12
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
