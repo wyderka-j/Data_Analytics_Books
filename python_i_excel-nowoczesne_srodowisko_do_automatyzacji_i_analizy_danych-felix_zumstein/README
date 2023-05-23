@@ -19,3 +19,13 @@ W rozdziale została omówiona:
 - Dystrybucja Anaconda Python: Instalacja; Anaconda Prompt; REPL: interaktywna sesja Pythona; Menedżery pakietów: Conda i pip; Środowiska Condy
 - Notatniki Jupyter: Uruchamianie notatników Jupyter; Komórki notatnika; Tryb edycji a tryb poleceń; Kolejność uruchamiania ma znaczenie; Zamykanie notatników Jupyter
 - Visual Studio Code; Instalacja i konfiguracja; Uruchamianie skryptu Pythona
+
+Rozdział 3. Wprowadzenie do Pythona
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+W rozdziale zostały omówione: 
+- Typy danych: Obiekty; Zmienne; Funkcje; Atrybuty i metody; Typy liczbowe; Operatory matematyczne; Logiczny typ danych; Łańcuchy znaków
+- Indeksowanie i wycinanie
+- Struktury danych: Listy; Słowniki; Krotki; Zbiory
+- Przepływ sterowania: Bloki kodu i instrukcja passInstrukcja if i wyrażenia warunkowe; Pętle for i while; Lista, słownik i zbiory składane
+- Organizacja kodu: Funkcje; Definiowanie funkcji; Wywoływanie funkcji; Moduły i instrukcja import; Klasa datetime
+- PEP 8 przewodnik stylu kodowania w Pythonie: PEP 8 i VS Code; Informacje o typie
