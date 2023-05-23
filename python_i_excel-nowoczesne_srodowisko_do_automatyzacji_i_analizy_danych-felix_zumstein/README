@@ -1,0 +1,21 @@
+"Python i Excel. Nowoczesne środowisko do automatyzacji i analizy danych" Autor: Felix Zumstein, Wydawnictwo: Helion 
+Tytuł oryginału: Python for Excel: A Modern Environment for Automation and Data Analysis
+https://helion.pl/ksiazki/python-i-excel-nowoczesne-srodowisko-do-automatyzacji-i-analizy-danych-felix-zumstein,pytexc.htm#format/d
+
+
+W tym repozytorium udostępniam rozwiązania omawianych zagadnień poruszanych w książce. 
+
+**************************************************************************************************************************************************************
+                                                    CZĘŚĆ I. Wprowadzenie do Pythona
+**************************************************************************************************************************************************************
+
+Rozdział 1. Dlaczego Python w Excelu?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rozdział teoretyczny
+
+Rozdział 2. Środowisko programistyczne
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+W rozdziale została omówiona: 
+- Dystrybucja Anaconda Python: Instalacja; Anaconda Prompt; REPL: interaktywna sesja Pythona; Menedżery pakietów: Conda i pip; Środowiska Condy
+- Notatniki Jupyter: Uruchamianie notatników Jupyter; Komórki notatnika; Tryb edycji a tryb poleceń; Kolejność uruchamiania ma znaczenie; Zamykanie notatników Jupyter
+- Visual Studio Code; Instalacja i konfiguracja; Uruchamianie skryptu Pythona
