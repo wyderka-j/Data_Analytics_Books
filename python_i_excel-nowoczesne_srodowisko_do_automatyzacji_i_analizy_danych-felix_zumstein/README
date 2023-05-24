@@ -29,3 +29,13 @@ W rozdziale zostały omówione:
 - Przepływ sterowania: Bloki kodu i instrukcja passInstrukcja if i wyrażenia warunkowe; Pętle for i while; Lista, słownik i zbiory składane
 - Organizacja kodu: Funkcje; Definiowanie funkcji; Wywoływanie funkcji; Moduły i instrukcja import; Klasa datetime
 - PEP 8 przewodnik stylu kodowania w Pythonie: PEP 8 i VS Code; Informacje o typie
+
+***********************************************************************************************************************************************************************
+                                                    CZĘŚĆ II. Wprowadzenie do biblioteki pandas
+***********************************************************************************************************************************************************************
+
+Rozdział 4. Podstawy NumPy
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+W rozdziale zostały omówione: 
+- Pierwsze kroki z NumPy: Tablica NumPy; Wektoryzacja i rozgłaszanie; Funkcje uniwersalne
+- Tworzenie tablic i operowanie nimi: Pobieranie i wybieranie elementów tablicy; Przydatne konstruktory tablicowe; Widok a kopia
