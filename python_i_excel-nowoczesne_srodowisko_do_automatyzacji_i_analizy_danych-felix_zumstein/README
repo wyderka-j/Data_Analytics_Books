@@ -39,3 +39,13 @@ Rozdział 4. Podstawy NumPy
 W rozdziale zostały omówione: 
 - Pierwsze kroki z NumPy: Tablica NumPy; Wektoryzacja i rozgłaszanie; Funkcje uniwersalne
 - Tworzenie tablic i operowanie nimi: Pobieranie i wybieranie elementów tablicy; Przydatne konstruktory tablicowe; Widok a kopia
+
+Rozdział 5. Analiza danych z biblioteką pandas
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- DataFrame i Series: Indeks; Kolumny
+- Operowanie danymi: Wybieranie danych; Ustawianie danych; Brakujące dane; Zduplikowane dane; Operacje arytmetyczne; Praca z kolumnami tekstowymi; Stosowanie funkcji; 
+  Widok a kopia
+- Łączenie obiektów DataFrame: Konkatenacja; Operacje join i merge
+- Statystyka opisowa i agregacja danych: Statystyka opisowa; Grupowanie; Funkcje pivot_table i melt
+- Tworzenie wykresów: Matplotlib; Plotly
+- Importowanie i eksportowanie obiektów DataFrame: Eksportowanie plików CSV; Importowanie plików CSV
