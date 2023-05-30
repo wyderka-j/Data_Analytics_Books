@@ -49,3 +49,13 @@ Rozdział 5. Analiza danych z biblioteką pandas
 - Statystyka opisowa i agregacja danych: Statystyka opisowa; Grupowanie; Funkcje pivot_table i melt
 - Tworzenie wykresów: Matplotlib; Plotly
 - Importowanie i eksportowanie obiektów DataFrame: Eksportowanie plików CSV; Importowanie plików CSV
+
+Rozdział 6. Analiza szeregów czasowych za pomocą pandas
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- DatetimeIndex: Tworzenie DatetimeIndex; Filtrowanie DatetimeIndex; Praca ze strefami czasowymi
+- Typowe operacje na szeregach czasowych: Przesunięcia i zmiany procentowe; Zmiana podstawy i korelacja; Resampling; Okna kroczące
+- Ograniczenia związane z pandas
+
+***********************************************************************************************************************************************************************
+                                                    CZĘŚĆ III. Odczytywanie i zapisywanie plików Excela bez Excela
+***********************************************************************************************************************************************************************
