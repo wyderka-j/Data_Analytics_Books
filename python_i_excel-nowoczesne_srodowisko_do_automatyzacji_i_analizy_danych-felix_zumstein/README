@@ -59,3 +59,9 @@ Rozdział 6. Analiza szeregów czasowych za pomocą pandas
 ***********************************************************************************************************************************************************************
                                                     CZĘŚĆ III. Odczytywanie i zapisywanie plików Excela bez Excela
 ***********************************************************************************************************************************************************************
+
+Rozdział 7. Operowanie plikami Excela za pomocą pandas
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Studium przypadku: raportowanie w Excelu
+- Odczytywanie i zapisywanie plików Excela za pomocą pandas: Funkcja read_excel i klasa ExcelFile; Metoda to_excel i klasa ExcelWriter
+- Ograniczenia związane z używaniem pandas z plikami Excela
