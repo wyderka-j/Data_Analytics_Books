@@ -65,3 +65,14 @@ Rozdział 7. Operowanie plikami Excela za pomocą pandas
 - Studium przypadku: raportowanie w Excelu
 - Odczytywanie i zapisywanie plików Excela za pomocą pandas: Funkcja read_excel i klasa ExcelFile; Metoda to_excel i klasa ExcelWriter
 - Ograniczenia związane z używaniem pandas z plikami Excela
+
+Rozdział 8. Manipulowanie plikami Excela za pomocą pakietów do odczytu i zapisu
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Pakiety do odczytu i zapisu: Kiedy używać którego pakietu?; Moduł excel.py; openpyxl: odczyt, zapis, edycja; XlsxWriter; pyxlsb; xlrd, xlwt i xlutils
+- Zaawansowane zagadnienia związane z odczytem i zapisem: Praca z dużymi plikami Excela - Zapis za pomocą openpyxl, Zapis za pomocą XlsxWriter, Odczyt za pomocą xlrd,
+  Odczyt za pomocą openpyxl, Równoległy odczyt arkuszy; Formatowanie obiektów DataFrame w Excelu- Formatowanie indeksu i nagłówków DataFrame, Formatowanie części 
+  DataFrame zawierającej dane; Studium przypadku (nowe podejście): raportowanie w Excelu
+
+***********************************************************************************************************************************************************************
+                                                    CZĘŚĆ IV. Programowanie aplikacji Excel za pomocą xlwings
+***********************************************************************************************************************************************************************
