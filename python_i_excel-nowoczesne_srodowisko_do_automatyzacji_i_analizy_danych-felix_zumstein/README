@@ -76,3 +76,10 @@ Rozdział 8. Manipulowanie plikami Excela za pomocą pakietów do odczytu i zapi
 ***********************************************************************************************************************************************************************
                                                     CZĘŚĆ IV. Programowanie aplikacji Excel za pomocą xlwings
 ***********************************************************************************************************************************************************************
+
+Rozdział 9. Automatyzacja Excela
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Pierwsze kroki z xlwings: Excel jako przeglądarka danych; Model obiektowy Excela; Uruchamianie kodu VBA
+- Konwertery, opcje i kolekcje: Praca z obiektami DataFrame; Konwertery i opcje; Wykresy, obrazy i zdefiniowane nazwy; Wykresy, Obrazy zdefiniowane nazwy; Studium 
+  przypadku (nowe podejście): raportowanie w Excelu
+- Zaawansowane zagadnienia związane z xlwings: Podstawy xlwings; Poprawa wydajności; Jak obejść brakującą funkcjonalność?
