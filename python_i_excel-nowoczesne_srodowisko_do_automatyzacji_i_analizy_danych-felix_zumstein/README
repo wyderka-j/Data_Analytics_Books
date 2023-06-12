@@ -83,3 +83,8 @@ Rozdział 9. Automatyzacja Excela
 - Konwertery, opcje i kolekcje: Praca z obiektami DataFrame; Konwertery i opcje; Wykresy, obrazy i zdefiniowane nazwy; Wykresy, Obrazy zdefiniowane nazwy; Studium 
   przypadku (nowe podejście): raportowanie w Excelu
 - Zaawansowane zagadnienia związane z xlwings: Podstawy xlwings; Poprawa wydajności; Jak obejść brakującą funkcjonalność?
+
+Rozdział 10. Narzędzia Excela działające w oparciu o język Python
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Wykorzystanie Excela jako frontendu za pomocą xlwings: Dodatek do Excela; Polecenie quickstart; Przycisk Run main; Funkcja RunPython
+- Wdrażanie: Zależność od Pythona; Autonomiczne skoroszyty: sposób na pozbycie się dodatku xlwings; Hierarchia konfiguracji; Ustawienia
