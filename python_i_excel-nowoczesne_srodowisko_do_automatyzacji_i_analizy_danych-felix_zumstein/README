@@ -94,3 +94,10 @@ Rozdział 11. Tropiciel pakietów Pythona
 - Co będziemy budować?
 - Podstawowa funkcjonalność: Web API; Bazy danych; Baza danych Tropiciela pakietów; Połączenia z bazą danych; Zapytania SQL; Ataki SQL injection; Wyjątki
 - Struktura aplikacji: Interfejs; Zaplecze; Debugowanie
+
+Rozdział 12. Funkcje definiowane przez użytkownika (UDF)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Pierwsze kroki z funkcjami UDF: UDF z poleceniem quickstart
+- Studium przypadku: Google Trends: Wprowadzenie do Google Trends; Praca z obiektami DataFrames i dynamicznymi tablicami; Pobieranie danych z Google Trends; Tworzenie
+  wykresów za pomocą funkcji UDF; Debugowanie funkcji UDF
+- Zaawansowane tematy dotyczące funkcji UDF: Podstawowa optymalizacja wydajności; Buforowanie; Dekorator sub
