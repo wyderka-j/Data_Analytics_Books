@@ -9,3 +9,32 @@ Rozdział 1. Wprowadzenie
 - Znaczenie danych
 - Czym jest analiza danych?
 - Hipotetyczna motywacja
+
+Rozdział 2. Błyskawiczny kurs Pythona
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Zasady tworzenia kodu Pythona
+- Skąd wziąć interpreter Pythona
+- Środowiska wirtualne
+- Formatowanie za pomocą białych znaków
+- Moduły
+- Funkcja
+- Łańcuchy
+- Wyjątki
+- Listy
+- Krotki
+- Słowniki
+- Counter
+- Zbiory
+- Przepływy sterowania
+- Wartości logiczne
+- Sortowanie
+- Składanie list
+- Testy automatyczne i instrukcja assert
+- Programowanie obiektowe
+- Obiekty iterowane i generatory
+- Losowość
+- Wyrażenia regularne
+- Narzędzia funkcyjne
+- Funkcja zip i rozpakowywanie argumentów
+- Argumenty nazwane i nienazwane
+- Adnotacje typów
