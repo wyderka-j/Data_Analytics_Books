@@ -38,3 +38,10 @@ Rozdział 2. Błyskawiczny kurs Pythona
 - Funkcja zip i rozpakowywanie argumentów
 - Argumenty nazwane i nienazwane
 - Adnotacje typów
+
+Rozdział 3. Wizualizacja danych
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Pakiet matplotlib
+- Wykres słupkowy
+- Wykresy liniowe
+- Wykresy punktowe
