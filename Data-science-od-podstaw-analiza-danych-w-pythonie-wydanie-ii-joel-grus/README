@@ -77,3 +77,12 @@ Rozdział 7. Hipotezy i wnioski
 - Hakowanie wartości p
 - Przykład: przeprowadzanie testu A-B
 - Wnioskowanie bayesowskie
+
+Rozdział 8. Metoda gradientu prostego
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Podstawy metydy gradientu prostego
+- Szacowanie gradientu
+- Korzystanie z gradientu
+- Dobór właściwego rozmiaru kroku
+- Używanie metody gradientu do dopasowywania modeli
+- Metody gradientu prostego: stochastyczna i minibatch
