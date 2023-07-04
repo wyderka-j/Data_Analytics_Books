@@ -86,3 +86,10 @@ Rozdział 8. Metoda gradientu prostego
 - Dobór właściwego rozmiaru kroku
 - Używanie metody gradientu do dopasowywania modeli
 - Metody gradientu prostego: stochastyczna i minibatch
+
+Rozdział 9. Uzyskiwanie danych
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Strumienie stdin i stdout
+- Wczytywanie plików
+- Pobieranie danych ze stron internetowych
+- Korzystanie z interfejsów programistycznych
