@@ -93,3 +93,13 @@ Rozdział 9. Uzyskiwanie danych
 - Wczytywanie plików
 - Pobieranie danych ze stron internetowych
 - Korzystanie z interfejsów programistycznych
+
+Rozdział 10. Praca z danymi
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Eksploracja danych: eksploracja danych jednowymiarowych; dwa wymiary; wiele wymiarów
+- Wykorzystanie klasy NamedTuple
+- Dekorator dataclass
+- Oczyszczanie i wstępne przetwarzanie danych
+- Przeskalowanie
+- Dygresja: tqdm
+- Redukcja liczby wymiarów
