@@ -1,7 +1,49 @@
-"Data science od podstaw. Analiza danych w Pythonie. Wydanie II" Autor: Joel Grus, Wydawnictwo: Helion 
-Tytuł oryginału: Data Science from Scratch: First Principles with Python, 2nd Edition
-https://helion.pl/ksiazki/data-science-od-podstaw-analiza-danych-w-pythonie-wydanie-ii-joel-grus,dasc2v.htm#format/d 
+"Analiza danych z wykorzystaniem SQL-a. Zaawansowane techniki przekształcania danych we wnioski" Autor: Cathy Tanimura, Wydawnictwo: Helion 
+Tytuł oryginału: SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights 
+https://helion.pl/ksiazki/analiza-danych-z-wykorzystaniem-sql-a-zaawansowane-techniki-przeksztalcania-danych-we-wnioski-cathy-tanimura,sqladz.htm#section7_shift 
 
 W tym repozytorium udostępniam rozwiązania omawianych zagadnień poruszanych w książce. 
 
 Rozdział 1. Wprowadzenie
+
+Rozdział 1. Analizy z wykorzystaniem SQL-a
+
+    Czym jest analiza danych?
+    Dlaczego SQL?
+        Czym jest SQL?
+        Korzyści, jakie daje SQL
+        SQL a R lub Python
+        SQL jako element procesu analizy danych 
+    Rodzaje baz danych i sposoby pracy z nimi
+        Wierszowe bazy danych
+        Kolumnowe bazy danych
+        Inne rodzaje infrastruktury danych 
+    Podsumowanie 
+
+Rozdział 2. Przygotowywanie danych do analiz
+
+    Typy danych
+        Typy danych w bazach
+        Dane ustrukturyzowane i nieustrukturyzowane
+        Dane ilościowe i jakościowe
+        Dane z pierwszej, drugiej i trzeciej ręki
+        Dane rzadkie 
+    Struktura zapytań w SQL-u
+    Profilowanie - rozkład danych
+        Histogramy i częstość wystąpień
+        Binning
+        Technika n przedziałów 
+    Profilowanie - jakość danych
+        Wykrywanie duplikatów
+        Deduplikacja za pomocą klauzul GROUP BY i DISTINCT 
+    Przygotowania - oczyszczanie danych
+        Oczyszczanie danych za pomocą przekształceń w instrukcji CASE
+        Konwersja i rzutowanie typów
+        Radzenie sobie z wartościami null: funkcje coalesce, nullif i nvl
+        Brakujące dane 
+    Przygotowania - kształtowanie danych
+        Docelowe zastosowanie - analiza biznesowa, wizualizacja, obliczanie statystyk, uczenie maszynowe
+        Tworzenie tabel przestawnych za pomocą instrukcji CASE
+        Przywracanie struktury po przestawieniu z użyciem instrukcji UNION
+        Funkcje pivot i unpivot 
+    Podsumowanie 
